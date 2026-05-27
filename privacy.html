@@ -1,3 +1,106 @@
+<html>
+   <head>
+<style>
+      html,
+      body {
+        font-family: "Roboto", "Segoe UI", "GeezaPro", "DejaVu Serif", "sans-serif", "-apple-system", "BlinkMacSystemFont";
+      }
+
+      /* Input & Output Containers */
+      .input-container,
+      .output-container {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+
+      .custom-richtexteditor.e-richtexteditor,
+      .converter-buttons-container {
+        flex: 1;
+      }
+
+      /* Buttons */
+      .converter-buttons-container {
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 15px;
+      }
+
+      .converter-buttons-container,
+      .converter-buttons-mobile,
+      .converter-buttons-desktop {
+        display: flex;
+        gap: 10px;
+      }
+
+      .custom-richtexteditor.e-richtexteditor {
+        overflow: auto;
+      }
+
+      .converter-buttons-mobile,
+      .converter-buttons-desktop {
+        flex-direction: row;
+      }
+
+      /* Toolbar */
+      .custom-richtexteditor .e-rte-toolbar {
+        text-align: right;
+      }
+
+      /* Checkbox */
+      .autoupdate-container {
+        margin-top: 1%;
+      }
+
+      /* Remove border for Splitter */
+      .splitter-component.e-splitter,
+      .splitter-component.e-splitter .e-pane,
+      .splitter-component.e-splitter .e-split-bar {
+        border: none !important;
+        background-color: transparent !important;
+        box-shadow: none !important;
+      }
+
+      /* Title & Header */
+      .title {
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 2px;
+      }
+
+      /* Mobile Specific Styles */
+      @media (max-width: 600px) {
+        .autoupdate-mobile {
+          margin: 3% 0;
+        }
+
+        .converter-buttons-container {
+          margin-top: 4%;
+          flex: 1;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 10px;
+        }
+
+        .title {
+          margin-bottom: 7px;
+        }
+
+        /* Set a reasonable min height for mobile */
+        .splitter-component {
+          min-height: 560px;
+        }
+
+        .custom-richtexteditor.e-richtexteditor .e-rte-content .e-content {
+          min-height: 50px;
+        }
+      }
+    </style>      
+   </head>
+   <body>
 <h1>Privacy Policy for FluxRider</h1>
 <p><strong>Effective date:</strong> 25 April 2026<br/><strong>Application name:</strong> FluxRider<br/><strong>Developer / publisher:</strong> MumbleFlux<br/><strong>Developer type:</strong> Individual, non-corporate developer<br/><strong>Contact email:</strong><a href="mailto:mumbleflux@outlook.com">mumbleflux@outlook.com</a></p>
 <p>This Privacy Policy explains how information is handled when you use <strong>FluxRider</strong>, an Android mobile application published by <strong>MumbleFlux</strong>.</p>
@@ -198,3 +301,5 @@
 <h2>17. Contact</h2>
 <p>For privacy questions, requests, or concerns, contact:</p>
 <p><strong>MumbleFlux</strong><br/>Email: <a href="mailto:mumbleflux@outlook.com">mumbleflux@outlook.com</a></p>
+
+   </body></html>
