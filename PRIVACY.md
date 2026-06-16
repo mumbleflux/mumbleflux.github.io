@@ -1,9 +1,13 @@
 # Privacy Policy for Mumbleflux Arcade
 
 **Effective date:** 17 June 2026
+
 **Application name:** MumbleFlux Arcade (formerly Fluxrider)
+
 **Developer / publisher:** MumbleFlux 
+
 **Developer type:** Individual, non-corporate developer  
+
 **Contact email:** [mumbleflux@outlook.com](mailto:mumbleflux@outlook.com)
 
 This Privacy Policy explains how information is handled when you use **Mumbleflux Arcade**, an Android mobile application published by **MumbleFlux**.
