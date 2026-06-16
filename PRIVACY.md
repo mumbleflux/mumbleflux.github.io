@@ -1,32 +1,32 @@
-# Privacy Policy for FluxRider
+# Privacy Policy for Mumbleflux Arcade
 
-**Effective date:** 25 April 2026  
-**Application name:** FluxRider  
-**Developer / publisher:** MumbleFlux  
+**Effective date:** 17 June 2026
+**Application name:** MumbleFlux Arcade (formerly Fluxrider)
+**Developer / publisher:** MumbleFlux 
 **Developer type:** Individual, non-corporate developer  
 **Contact email:** [mumbleflux@outlook.com](mailto:mumbleflux@outlook.com)
 
-This Privacy Policy explains how information is handled when you use **FluxRider**, an Android mobile application published by **MumbleFlux**.
+This Privacy Policy explains how information is handled when you use **Mumbleflux Arcade**, an Android mobile application published by **MumbleFlux**.
 
-FluxRider is distributed through the **Google Play Store** and is **not intended for use by people under the age of 13**.
+Mumbleflux Arcade is distributed through the **Google Play Store** and is **not intended for use by people under the age of 13**.
 
 ## 1. Overview
 
-MumbleFlux does not operate user accounts and does not directly collect names, email addresses, phone numbers, payment information, contact lists, photos, precise location information, or other similar personal information through FluxRider.
+MumbleFlux does not operate user accounts and does not directly collect names, email addresses, phone numbers, payment information, contact lists, photos, precise location information, or other similar personal information through Mumbleflux Arcade.
 
-FluxRider uses **Google AdMob** to display interstitial advertisements. Any personal data, device data, advertising data, analytics data, diagnostic data, or similar information collected for advertising-related purposes is collected and processed by **Google AdMob**, the **Google Mobile Ads SDK**, Google, and, where applicable, Google's advertising partners.
+Mumbleflux Arcade uses **Google AdMob** to display interstitial advertisements. Any personal data, device data, advertising data, analytics data, diagnostic data, or similar information collected for advertising-related purposes is collected and processed by **Google AdMob**, the **Google Mobile Ads SDK**, Google, and, where applicable, Google's advertising partners.
 
-MumbleFlux may receive aggregated or non-identifying advertising reports through Google AdMob, such as ad performance metrics, but does not receive user-level personal information directly from FluxRider.
+MumbleFlux may receive aggregated or non-identifying advertising reports through Google AdMob, such as ad performance metrics, but does not receive user-level personal information directly from Mumbleflux Arcade.
 
-## 2. Information collected by FluxRider
+## 2. Information collected by Mumbleflux Arcade
 
-MumbleFlux does not directly collect personal information from users through FluxRider.
+MumbleFlux does not directly collect personal information from users through Mumbleflux Arcade.
 
-FluxRider may store basic app preferences or gameplay-related information locally on your device, such as settings, scores, or progress, if required for app functionality. This locally stored information is not transmitted to MumbleFlux unless you separately choose to provide information to MumbleFlux, for example by contacting support by email.
+Mumbleflux Arcade may store basic app preferences or gameplay-related information locally on your device, such as settings, scores, or progress, if required for app functionality. This locally stored information is not transmitted to MumbleFlux unless you separately choose to provide information to MumbleFlux, for example by contacting support by email.
 
 ## 3. Information collected by Google AdMob
 
-Because FluxRider uses Google AdMob, Google may automatically collect and process certain information when advertisements are requested, loaded, displayed, or interacted with.
+Because Mumbleflux Arcade uses Google AdMob, Google may automatically collect and process certain information when advertisements are requested, loaded, displayed, or interacted with.
 
 Depending on your device, region, consent choices, Google account settings, Android settings, and Google's own policies, this may include:
 
@@ -48,18 +48,18 @@ Google's AdMob and Google Mobile Ads SDK disclosures are available here:
 
 Information collected through Google AdMob may be used by Google and its advertising partners for purposes including:
 
-- serving advertisements in FluxRider;
+- serving advertisements in Mumbleflux Arcade;
 - displaying personalised or non-personalised advertisements, depending on your settings, consent choices, and applicable law;
 - measuring ad performance;
 - limiting fraud, invalid traffic, abuse, and security risks;
 - improving advertising systems and related analytics;
 - complying with legal and regulatory obligations.
 
-MumbleFlux uses AdMob to support the availability of FluxRider by displaying advertisements.
+MumbleFlux uses AdMob to support the availability of Mumbleflux Arcade by displaying advertisements.
 
 ## 5. Third-party services
 
-FluxRider uses the following third-party service:
+Mumbleflux Arcade uses the following third-party service:
 
 ### Google AdMob
 
@@ -101,7 +101,7 @@ Where privacy laws define certain advertising activities as a "sale", "sharing",
 
 ## 9. Data retention and deletion
 
-MumbleFlux does not maintain user accounts for FluxRider and does not maintain a server-side database of FluxRider users.
+**MumbleFlux does not maintain user accounts for Mumbleflux Arcade and does not maintain a server-side database of Mumbleflux Arcade users**.
 
 Any advertising-related data collected by Google AdMob is retained, managed, and deleted according to Google's policies and user controls.
 
@@ -115,7 +115,7 @@ Because MumbleFlux does not operate user accounts or directly collect app user i
 
 ## 10. Children's privacy
 
-FluxRider is not intended for use by people under the age of 13.
+Mumbleflux Arcade is not intended for use by people under the age of 13.
 
 MumbleFlux does not knowingly collect personal information from children under 13. If you believe that a child under 13 has provided personal information directly to MumbleFlux, please contact:
 
@@ -123,7 +123,7 @@ MumbleFlux does not knowingly collect personal information from children under 1
 
 MumbleFlux will take reasonable steps to delete that information.
 
-If FluxRider is used by a child despite not being intended for children, Google AdMob may still process information depending on device settings, Google account settings, applicable laws, and ad-serving configuration.
+If Mumbleflux Arcade is used by a child despite not being intended for children, Google AdMob may still process information depending on device settings, Google account settings, applicable laws, and ad-serving configuration.
 
 ## 11. GDPR, UK GDPR, and EEA/UK/Swiss privacy rights
 
@@ -172,7 +172,7 @@ This section applies to California residents where the California Consumer Priva
 
 ### Categories of personal information
 
-MumbleFlux does not directly collect personal information through FluxRider.
+MumbleFlux does not directly collect personal information through Mumbleflux Arcade.
 
 Through Google AdMob, the following categories of personal information may be collected or processed by Google, depending on the user, device, settings, consent choices, and applicable law:
 
@@ -205,7 +205,7 @@ California residents may opt out of certain personalised advertising or limit ad
 
 ### Sensitive personal information
 
-MumbleFlux does not knowingly collect sensitive personal information through FluxRider.
+MumbleFlux does not knowingly collect sensitive personal information through Mumbleflux Arcade.
 
 ### Financial incentives
 
@@ -235,17 +235,17 @@ This section is provided for purposes of the California Online Privacy Protectio
 
 ### Categories of personally identifiable information collected
 
-MumbleFlux does not directly collect personally identifiable information through FluxRider.
+MumbleFlux does not directly collect personally identifiable information through Mumbleflux Arcade.
 
 Google AdMob may collect advertising-related identifiers, device information, IP address, app interaction information, ad interaction information, and diagnostic information as described in this Privacy Policy.
 
 ### Third-party collection
 
-Google AdMob and Google's advertising partners may collect information about your use of FluxRider and other apps or services over time for advertising, ad measurement, analytics, diagnostics, fraud prevention, and security purposes.
+Google AdMob and Google's advertising partners may collect information about your use of Mumbleflux Arcade and other apps or services over time for advertising, ad measurement, analytics, diagnostics, fraud prevention, and security purposes.
 
 ### Do Not Track
 
-FluxRider is a mobile application and does not respond to web browser "Do Not Track" signals.
+Mumbleflux Arcade is a mobile application and does not respond to web browser "Do Not Track" signals.
 
 You can control certain advertising and tracking preferences through Android device settings, Google account settings, Google Ad Settings, and any consent or privacy options made available in the app.
 
@@ -259,15 +259,15 @@ Google AdMob and related Google services may process information on servers loca
 
 ## 15. Security
 
-MumbleFlux does not maintain a user account database for FluxRider.
+MumbleFlux does not maintain a user account database for Mumbleflux Arcade.
 
 Google states that data collected by the Google Mobile Ads SDK is encrypted in transit. Advertising-related information is handled according to Google's own security and data handling practices.
 
 ## 16. Changes to this Privacy Policy
 
-MumbleFlux may update this Privacy Policy from time to time to reflect changes to FluxRider, Google AdMob, legal requirements, or developer practices.
+MumbleFlux may update this Privacy Policy from time to time to reflect changes to Mumbleflux Arcade, Google AdMob, legal requirements, or developer practices.
 
-When changes are made, the effective date at the top of this Privacy Policy will be updated. Continued use of FluxRider after a Privacy Policy update means you accept the updated Privacy Policy.
+When changes are made, the effective date at the top of this Privacy Policy will be updated. Continued use of Mumbleflux Arcade after a Privacy Policy update means you accept the updated Privacy Policy.
 
 ## 17. Contact
 
