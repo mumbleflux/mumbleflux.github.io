@@ -20,7 +20,7 @@ MumbleFlux may receive aggregated or non-identifying advertising reports through
 
 ## 2. Information collected by Mumbleflux Arcade
 
-MumbleFlux does not directly collect personal information from users through Mumbleflux Arcade.
+**MumbleFlux does not directly collect personal information from users through Mumbleflux Arcade.**
 
 Mumbleflux Arcade may store basic app preferences or gameplay-related information locally on your device, such as settings, scores, or progress, if required for app functionality. This locally stored information is not transmitted to MumbleFlux unless you separately choose to provide information to MumbleFlux, for example by contacting support by email.
 
@@ -93,7 +93,7 @@ You may also be able to adjust Google advertising settings here:
 
 ## 8. Data sharing
 
-MumbleFlux does not sell user personal information directly.
+**MumbleFlux does not sell user personal information directly.**
 
 Information collected through Google AdMob may be collected, used, disclosed, shared, or processed by Google, Google AdMob, the Google Mobile Ads SDK, advertising technology providers, and advertising partners for advertising, measurement, analytics, diagnostics, fraud prevention, security, and related purposes.
 
